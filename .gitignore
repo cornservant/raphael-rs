@@ -17,3 +17,6 @@ target/
 # Ignore build directories
 docs/
 distrib/
+
+# Ignore `result` symlink crated by `nix build`
+result
